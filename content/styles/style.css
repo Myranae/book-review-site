@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header, footer {
+    border: thick solid purple;
+    background-color: burlywood;
+}
+
+main {
+    background-color: darksalmon;
+}
+
+h1 {
+    color:violet;
+    font-family: 'Macondo', cursive;
+    text-shadow: 0px 4px 4px #282828;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: brown;
+}
+
+a:hover {
+    color: orangered;
+}
+
+ul {
+    list-style: none;
+}
+
+.book-title {
+    font-style: italic;
+}
